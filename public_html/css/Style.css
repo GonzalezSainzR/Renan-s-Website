@@ -1,0 +1,18 @@
+
+nav a {
+    color: black;
+}
+#current-link {
+    text-decoration: none;
+}
+h1{
+    border-top: solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom:solid;
+    margin-left: 535px;
+    margin-right: 620px;
+}
+p1 a {
+    text-decoration: none;
+}
